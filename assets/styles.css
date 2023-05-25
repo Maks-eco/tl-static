@@ -1,0 +1,125 @@
+body {
+  /* background-color: aquamarine; */
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+}
+
+.test-release {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  flex-direction: row;
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 70px;
+  color: #444;
+}
+
+.test-release p {
+  margin-top: 0px;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+.test-release span {
+  /* margin-bottom: 0px; */
+  color: #aaa;
+}
+.release-text {
+  width: 350px;
+}
+.release-img {
+  opacity: 0.8;
+}
+
+.img-app {
+  width: 300px;
+}
+
+.story-card {
+  display: flex;
+  /* align-items: flex-end; */
+  align-items: flex-start;
+  /* font-family: "Open Sans"; */
+  justify-content: space-between;
+  /* height: 50px; */
+}
+
+.story-card__container {
+  width: 830px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+  /* font-family: "Open Sans", Arial, Helvetica, sans-serif; */
+}
+
+.story-header {
+  /* font-family: "Open Sans"; */
+  color: #444;
+  margin-top: 0px;
+}
+
+.story-description {
+  width: 500px;
+  color: #444;
+}
+
+.story-description__text {
+  margin-top: 0px;
+}
+
+.story-description__text--right {
+  /* text-align: right; */
+  text-align: justify;
+}
+
+/* .process-container {
+  display: flex;
+  align-items: flex-end;
+  font-family: "Open Sans";
+  height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+}
+#process-info {
+  margin: 7px;
+  color: #0091fc;
+}
+
+.window {
+  background: url("window.png") no-repeat center center;
+  background-size: contain;
+  height: 450px;
+  width: 500px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+} */
+
+/* .controls {
+  width: 100%;
+  height: 18.0971659919028340080971659919028%; 
+  position: relative;
+  background-color: aquamarine;
+} */
+/* .button-file {
+  background-color: white;
+  font-size: 20px;
+  color: blueviolet;
+  padding: 10px;
+  border: solid blueviolet 2px;
+  border-radius: 10px;
+  font-family: "Open Sans";
+}
+
+.button-menu {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+} */
